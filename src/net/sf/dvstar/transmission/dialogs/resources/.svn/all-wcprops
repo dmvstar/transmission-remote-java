@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/transmission-rj/!svn/ver/207/transmission-remote-java/src/net/sf/dvstar/transmission/dialogs/resources
+END
+ExtFilterDialog.properties
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/transmission-rj/!svn/ver/200/transmission-remote-java/src/net/sf/dvstar/transmission/dialogs/resources/ExtFilterDialog.properties
+END
+TorrentLocation.properties
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/transmission-rj/!svn/ver/207/transmission-remote-java/src/net/sf/dvstar/transmission/dialogs/resources/TorrentLocation.properties
+END
+ClientConfig_uk_UA.properties
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/transmission-rj/!svn/ver/182/transmission-remote-java/src/net/sf/dvstar/transmission/dialogs/resources/ClientConfig_uk_UA.properties
+END
+TransmissionAboutBox.properties
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/transmission-rj/!svn/ver/89/transmission-remote-java/src/net/sf/dvstar/transmission/dialogs/resources/TransmissionAboutBox.properties
+END
+TorrentProperties_uk_UA.properties
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/transmission-rj/!svn/ver/200/transmission-remote-java/src/net/sf/dvstar/transmission/dialogs/resources/TorrentProperties_uk_UA.properties
+END
+SessionStatistic_uk_UA.properties
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/transmission-rj/!svn/ver/112/transmission-remote-java/src/net/sf/dvstar/transmission/dialogs/resources/SessionStatistic_uk_UA.properties
+END
+TorrentMoveData_uk_UA.properties
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/transmission-rj/!svn/ver/92/transmission-remote-java/src/net/sf/dvstar/transmission/dialogs/resources/TorrentMoveData_uk_UA.properties
+END
+ClientConfig.properties
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/transmission-rj/!svn/ver/204/transmission-remote-java/src/net/sf/dvstar/transmission/dialogs/resources/ClientConfig.properties
+END
+TorrentMetaInfo_uk_UA.properties
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/transmission-rj/!svn/ver/202/transmission-remote-java/src/net/sf/dvstar/transmission/dialogs/resources/TorrentMetaInfo_uk_UA.properties
+END
+ExtFilterDialog_uk_UA.properties
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/transmission-rj/!svn/ver/199/transmission-remote-java/src/net/sf/dvstar/transmission/dialogs/resources/ExtFilterDialog_uk_UA.properties
+END
+TorrentLocation_uk_UA.properties
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/transmission-rj/!svn/ver/207/transmission-remote-java/src/net/sf/dvstar/transmission/dialogs/resources/TorrentLocation_uk_UA.properties
+END
+TorrentProperties.properties
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/transmission-rj/!svn/ver/200/transmission-remote-java/src/net/sf/dvstar/transmission/dialogs/resources/TorrentProperties.properties
+END
+SessionStatistic.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/transmission-rj/!svn/ver/112/transmission-remote-java/src/net/sf/dvstar/transmission/dialogs/resources/SessionStatistic.properties
+END
+TorrentMoveData.properties
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/transmission-rj/!svn/ver/11/transmission-remote-java/src/net/sf/dvstar/transmission/dialogs/resources/TorrentMoveData.properties
+END
+TorrentMetaInfo.properties
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/transmission-rj/!svn/ver/202/transmission-remote-java/src/net/sf/dvstar/transmission/dialogs/resources/TorrentMetaInfo.properties
+END
+TransmissionAboutBox_uk_UA.properties
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svnroot/transmission-rj/!svn/ver/89/transmission-remote-java/src/net/sf/dvstar/transmission/dialogs/resources/TransmissionAboutBox_uk_UA.properties
+END
